@@ -1,0 +1,6 @@
+C:\Users\n\Documents\Demo\DDP\DDP\bin\Debug\DDP.exe.config
+C:\Users\n\Documents\Demo\DDP\DDP\obj\Debug\DDP.csprojResolveAssemblyReference.cache
+C:\Users\n\Documents\Demo\DDP\DDP\bin\Debug\DDP.exe
+C:\Users\n\Documents\Demo\DDP\DDP\bin\Debug\DDP.pdb
+C:\Users\n\Documents\Demo\DDP\DDP\obj\Debug\DDP.exe
+C:\Users\n\Documents\Demo\DDP\DDP\obj\Debug\DDP.pdb
